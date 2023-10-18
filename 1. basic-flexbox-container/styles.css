@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+
+    /** Decorative Styles */
+    width:250px;
+    height:100px;
+    background-color: lightcyan;
+    margin: 10px;
+    border: 0.16em solid blue;
+}
